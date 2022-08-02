@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Charts.qml</file>
+        <file>Charts2.qml</file>
+        <file>Charts3.qml</file>
+        <file>image/location.png</file>
+        <file>image/marker.png</file>
+        <file>Listasama.qml</file>
+        <file>Ucboyutlu.qml</file>
+        <file>image/trefoil.obj</file>
+        <file>image/gorevblender1.obj</file>
+        <file>image/LOGO.jpeg</file>
+    </qresource>
+    <qresource prefix="/image"/>
+</RCC>

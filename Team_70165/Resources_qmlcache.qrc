@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="image/location.png">image/location.png</file>
+        <file alias="image/marker.png">image/marker.png</file>
+        <file alias="image/trefoil.obj">image/trefoil.obj</file>
+        <file alias="image/gorevblender1.obj">image/gorevblender1.obj</file>
+        <file alias="image/LOGO.jpeg">image/LOGO.jpeg</file>
+    </qresource>
+    <qresource prefix="/image"/>
+</RCC>
